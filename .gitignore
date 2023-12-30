@@ -8,6 +8,8 @@
 /Untitled.ipynb
 /output.jpg
 /data/voc2012_raw/
+yolov3.tf.data-00000-of-00001
+yolov3.tf.index
 
 # Created by https://www.gitignore.io/api/python
 # Edit at https://www.gitignore.io/?templates=python
